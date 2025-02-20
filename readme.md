@@ -41,8 +41,7 @@ Downloads
 ├── 5f_0919
 └── carter_scout_issacsim  (이 위치에서 실행)
 ```
-### 아이삭 심에서 맵 불러오기 카터는 5f_0919, 스카웃은 5f_0909_scout
-![맵 불러오기](/image/image1.png)
+
 
 ### 1) ROS 2 및 환경 변수 설정
 ```bash
@@ -56,6 +55,9 @@ export FASTRTPS_DEFAULT_PROFILES_FILE=fastdds.xml
 cd /home/(user name)/Downloads/issacsim
 ./isaac-sim.sh
 ```
+
+### 아이삭 심에서 맵 불러오기 카터는 5f_0919, 스카웃은 5f_0909_scout
+![맵 불러오기](/image/image1.png)
 
 ### 3) 카터 네비게이션 실행
 ```bash
