@@ -9,8 +9,11 @@ https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 
 issac sim : 4.2.0
 https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/download.html
+
+
 ```
 ![아이삭심 버전설치](/image/image.png)
+
 
 
 ## 1. 필요한 패키지 설치
@@ -86,4 +89,12 @@ source /opt/ros/humble/setup.bash
 source install/setup.bash
 ros2 run rviz2 rviz2 -d $(ros2 pkg prefix nav2_bringup)/share/nav2_bringup/rviz/nav2_default_view.rviz
 ```
+```
+
+
+
+```markdown
+워스스페이스 출처
+https://github.com/isaac-sim/IsaacSim-ros_workspaces
+
 ```
