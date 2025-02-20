@@ -5,8 +5,9 @@
 ```markdown
 OS : Ubuntu 22.04
 ROS : Humble
-issac sim : 4.2.0
+https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 
+issac sim : 4.2.0
 https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/download.html
 ```
 ![아이삭심 버전설치](/image/image.png)
