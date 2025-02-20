@@ -1,6 +1,3 @@
-다음은 해당 명령어들을 보기 좋게 정리한 GitHub용 Markdown 파일입니다.  
-
----  
 
 ```markdown
 # ROS 2 Humble 네비게이션 실행 가이드
