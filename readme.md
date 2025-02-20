@@ -39,7 +39,7 @@ sudo apt install ros-humble-amcl
 Downloads
 ├── issac sim
 ├── 5f_0919
-└── humble_ws  (이 위치에서 실행)
+└── carter_scout_issacsim  (이 위치에서 실행)
 ```
 ### 아이삭 심에서 맵 불러오기 카터는 5f_0919, 스카웃은 5f_0909_scout
 ![맵 불러오기](/image/image1.png)
@@ -80,7 +80,7 @@ ros2 run tf2_ros static_transform_publisher 0 0 0 0 0 0 map odom
 ```bash
 source /opt/ros/humble/setup.bash
 source install/setup.bash
-ros2 launch scout2_navigation navigation.launch.py map:=/home/(user name)/Downloads/scout_custom/src/scout2_navigation/maps/5fimage.yaml
+ros2 launch scout2_navigation navigation.launch.py map:=/home/(user name)/Downloads/carter_scout_issacsim/src/scout2_navigation/maps/5fimage.yaml
 ```
 
 ### 3) RViz2 실행
