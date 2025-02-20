@@ -1,6 +1,16 @@
 
 
-# ROS 2 Humble 네비게이션 실행 가이드
+# ROS 2 Humble 네비게이션 실행
+
+```markdown
+OS : Ubuntu 22.04
+ROS : Humble
+issac sim : 4.2.0
+
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/download.html
+```
+![아이삭심 버전설치](assets/images/image.png)
+
 
 ## 1. 필요한 패키지 설치
 
