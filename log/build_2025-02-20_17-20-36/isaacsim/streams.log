@@ -1,0 +1,47 @@
+[0.129s] Invoking command in '/home/hmi/Desktop/humble_ws/build/isaacsim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/isaacsim -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/isaacsim
+[0.171s] -- The C compiler identification is GNU 11.4.0
+[0.211s] -- The CXX compiler identification is GNU 11.4.0
+[0.219s] -- Detecting C compiler ABI info
+[0.273s] -- Detecting C compiler ABI info - done
+[0.278s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.278s] -- Detecting C compile features
+[0.278s] -- Detecting C compile features - done
+[0.281s] -- Detecting CXX compiler ABI info
+[0.341s] -- Detecting CXX compiler ABI info - done
+[0.346s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.347s] -- Detecting CXX compile features
+[0.347s] -- Detecting CXX compile features - done
+[0.348s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.461s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.526s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[0.576s] -- Configuring done
+[0.578s] -- Generating done
+[0.579s] -- Build files have been written to: /home/hmi/Desktop/humble_ws/build/isaacsim
+[0.583s] Invoked command in '/home/hmi/Desktop/humble_ws/build/isaacsim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/isaacsim -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/isaacsim
+[0.584s] Invoking command in '/home/hmi/Desktop/humble_ws/build/isaacsim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/isaacsim -- -j32 -l32
+[0.609s] Invoked command in '/home/hmi/Desktop/humble_ws/build/isaacsim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/isaacsim -- -j32 -l32
+[0.611s] Invoking command in '/home/hmi/Desktop/humble_ws/build/isaacsim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/isaacsim
+[0.615s] -- Install configuration: ""
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/scripts
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/scripts/run_isaacsim.py
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/scripts/open_isaacsim_stage.py
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/launch
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/launch/run_isaacsim.launch.py
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/lib/isaacsim/run_isaacsim.py
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/lib/isaacsim/open_isaacsim_stage.py
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/ament_index/resource_index/package_run_dependencies/isaacsim
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/ament_index/resource_index/parent_prefix_path/isaacsim
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/environment/ament_prefix_path.sh
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/environment/ament_prefix_path.dsv
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/environment/path.sh
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/environment/path.dsv
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/local_setup.bash
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/local_setup.sh
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/local_setup.zsh
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/local_setup.dsv
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/package.dsv
+[0.616s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/ament_index/resource_index/packages/isaacsim
+[0.617s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/cmake/isaacsimConfig.cmake
+[0.617s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/cmake/isaacsimConfig-version.cmake
+[0.617s] -- Installing: /home/hmi/Desktop/humble_ws/install/isaacsim/share/isaacsim/package.xml
+[0.618s] Invoked command in '/home/hmi/Desktop/humble_ws/build/isaacsim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/isaacsim

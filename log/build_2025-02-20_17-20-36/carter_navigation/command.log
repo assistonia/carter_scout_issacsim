@@ -1,0 +1,6 @@
+Invoking command in '/home/hmi/Desktop/humble_ws/build/carter_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/navigation/carter_navigation -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/carter_navigation
+Invoked command in '/home/hmi/Desktop/humble_ws/build/carter_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/navigation/carter_navigation -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/carter_navigation
+Invoking command in '/home/hmi/Desktop/humble_ws/build/carter_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/carter_navigation -- -j32 -l32
+Invoked command in '/home/hmi/Desktop/humble_ws/build/carter_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/carter_navigation -- -j32 -l32
+Invoking command in '/home/hmi/Desktop/humble_ws/build/carter_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/carter_navigation
+Invoked command in '/home/hmi/Desktop/humble_ws/build/carter_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/carter_navigation

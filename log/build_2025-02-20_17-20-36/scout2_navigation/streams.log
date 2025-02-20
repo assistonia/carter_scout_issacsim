@@ -1,0 +1,50 @@
+[0.131s] Invoking command in '/home/hmi/Desktop/humble_ws/build/scout2_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/scout2_navigation -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/scout2_navigation
+[0.170s] -- The C compiler identification is GNU 11.4.0
+[0.206s] -- The CXX compiler identification is GNU 11.4.0
+[0.211s] -- Detecting C compiler ABI info
+[0.262s] -- Detecting C compiler ABI info - done
+[0.267s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.267s] -- Detecting C compile features
+[0.267s] -- Detecting C compile features - done
+[0.269s] -- Detecting CXX compiler ABI info
+[0.331s] -- Detecting CXX compiler ABI info - done
+[0.337s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.338s] -- Detecting CXX compile features
+[0.338s] -- Detecting CXX compile features - done
+[0.340s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.448s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.510s] -- Found nav2_bringup: 1.1.18 (/opt/ros/humble/share/nav2_bringup/cmake)
+[0.550s] -- Configuring done
+[0.552s] -- Generating done
+[0.553s] -- Build files have been written to: /home/hmi/Desktop/humble_ws/build/scout2_navigation
+[0.557s] Invoked command in '/home/hmi/Desktop/humble_ws/build/scout2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/scout2_navigation -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/scout2_navigation
+[0.557s] Invoking command in '/home/hmi/Desktop/humble_ws/build/scout2_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/scout2_navigation -- -j32 -l32
+[0.589s] Invoked command in '/home/hmi/Desktop/humble_ws/build/scout2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/scout2_navigation -- -j32 -l32
+[0.590s] Invoking command in '/home/hmi/Desktop/humble_ws/build/scout2_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/scout2_navigation
+[0.595s] -- Install configuration: ""
+[0.595s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/launch
+[0.595s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/launch/slam.launch.py
+[0.595s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/launch/localization.launch.py
+[0.595s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/launch/navigation.launch.py
+[0.595s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/launch/nav2.launch.py
+[0.595s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/launch/bringup.launch.py
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/config
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/config/nav2.yaml
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/config/localization.yaml
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/config/slam.yaml
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/ament_index/resource_index/package_run_dependencies/scout2_navigation
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/ament_index/resource_index/parent_prefix_path/scout2_navigation
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/environment/ament_prefix_path.sh
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/environment/ament_prefix_path.dsv
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/environment/path.sh
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/environment/path.dsv
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/local_setup.bash
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/local_setup.sh
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/local_setup.zsh
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/local_setup.dsv
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/package.dsv
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/ament_index/resource_index/packages/scout2_navigation
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/cmake/scout2_navigationConfig.cmake
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/cmake/scout2_navigationConfig-version.cmake
+[0.596s] -- Installing: /home/hmi/Desktop/humble_ws/install/scout2_navigation/share/scout2_navigation/package.xml
+[0.598s] Invoked command in '/home/hmi/Desktop/humble_ws/build/scout2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/scout2_navigation

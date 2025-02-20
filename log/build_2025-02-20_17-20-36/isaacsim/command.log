@@ -1,0 +1,6 @@
+Invoking command in '/home/hmi/Desktop/humble_ws/build/isaacsim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/isaacsim -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/isaacsim
+Invoked command in '/home/hmi/Desktop/humble_ws/build/isaacsim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hmi/Desktop/humble_ws/src/isaacsim -DCMAKE_INSTALL_PREFIX=/home/hmi/Desktop/humble_ws/install/isaacsim
+Invoking command in '/home/hmi/Desktop/humble_ws/build/isaacsim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/isaacsim -- -j32 -l32
+Invoked command in '/home/hmi/Desktop/humble_ws/build/isaacsim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hmi/Desktop/humble_ws/build/isaacsim -- -j32 -l32
+Invoking command in '/home/hmi/Desktop/humble_ws/build/isaacsim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/isaacsim
+Invoked command in '/home/hmi/Desktop/humble_ws/build/isaacsim' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hmi/Desktop/humble_ws/build/isaacsim
