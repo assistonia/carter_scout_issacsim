@@ -10,6 +10,7 @@ https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 issac sim : 4.2.0
 https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/download.html
 
+ROS2와 Isaac Sim 버전을 설치 완료한 후 진행이 필요합니다.
 
 ```
 ![아이삭심 버전설치](/image/image.png)
