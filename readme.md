@@ -9,7 +9,7 @@ issac sim : 4.2.0
 
 https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/download.html
 ```
-![아이삭심 버전설치](assets/images/image.png)
+![아이삭심 버전설치](/image/image.png)
 
 
 ## 1. 필요한 패키지 설치
